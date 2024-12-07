@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-namespace DU3_2C_Steinerova
+namespace DU3
 {
     internal class Program
     {
