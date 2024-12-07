@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DU4_2C_Steinerova
+namespace DU4
 {
     internal class Program
     {
